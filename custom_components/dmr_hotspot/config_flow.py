@@ -9,7 +9,7 @@ from homeassistant.helpers import config_validation as cv
 
 _LOGGER = logging.getLogger(__name__)
 
-DOMAIN = "dmr_last_heard"
+DOMAIN = "dmr_hotspot"
 DEFAULT_NAME = "DMR Hotspot"
 DEFAULT_SCAN_INTERVAL = 30
 
