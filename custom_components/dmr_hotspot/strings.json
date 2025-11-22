@@ -1,0 +1,22 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "DMR Hotspot einrichten",
+        "description": "Gib die IP-Adresse oder URL deines DMR-Hotspots an",
+        "data": {
+          "host": "IP-Adresse oder URL",
+          "name": "Name des Hotspots",
+          "scan_interval": "Aktualisierungsintervall (Sekunden)"
+        }
+      }
+    },
+    "error": {
+      "cannot_connect": "Verbindung zur API fehlgeschlagen. Prüfe die IP-Adresse.",
+      "unknown": "Unerwarteter Fehler aufgetreten"
+    },
+    "abort": {
+      "already_configured": "Dieser Hotspot ist bereits konfiguriert"
+    }
+  }
+}

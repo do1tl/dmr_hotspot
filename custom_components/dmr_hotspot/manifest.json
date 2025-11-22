@@ -1,0 +1,12 @@
+{
+  "domain": "dmr_hotspot",
+  "name": "DMR Hotspot Monitor",
+  "version": "1.0.0",
+  "codeowners": ["@yourusername"],
+  "config_flow": true,
+  "documentation": "https://github.com/yourusername/dmr_hotspot",
+  "issue_tracker": "https://github.com/yourusername/dmr_hotspot/issues",
+  "requirements": [],
+  "iot_class": "local_polling",
+  "dependencies": []
+}
