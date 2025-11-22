@@ -20,7 +20,7 @@ Diese Integration ermöglicht es, DMR Last Heard Daten von einem MMDVM/Pi-Star H
 1. HACS öffnen
 2. Auf die drei Punkte oben rechts klicken
 3. "Benutzerdefinierte Repositories" wählen
-4. Repository-URL einfügen: `https://github.com/DEIN_USERNAME/dmr_hotspot`
+4. Repository-URL einfügen: `https://github.com/do1tl/dmr_hotspot`
 5. Kategorie: "Integration"
 6. "Hinzufügen" klicken
 7. Nach "DMR Hotspot Monitor" suchen und installieren
